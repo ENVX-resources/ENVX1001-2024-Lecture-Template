@@ -8,11 +8,7 @@
 
 Welcome!
 
-**To view the rendered slides, click [here](https://envx-resources.github.io/ENVX1002-Lecture-Template).**
-
-To download the slides, click on the green "Code" button above and select "Download ZIP". Then, unzip the file to access either the `.html` or the `.pdf` versions of the presentation.
-
-You can also render the slides yourself by opening the `.qmd` file in Rstudio, and clicking the "Render" button. This will generate a `.html` file that you can open in your browser.
+**To view the rendered slides, click [here](https://envx-resources.github.io/ENVX1002-Lecture-Template).** Check the repository if you wish to download the slides in PDF or HTML format.
 
 ## License and attribution
 
