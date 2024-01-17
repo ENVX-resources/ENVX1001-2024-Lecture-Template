@@ -20,5 +20,5 @@ format:
     sansfont: Arial # header text Open Sans
     classoption: landscape
     pagestyle: empty
-  # pptx:
-  #   reference-doc: _resources/templates/pptx/solespp.pptx
+  # pptx: # not configured, will work on it later
+  #   reference-doc: _assets/usyd.pptx
