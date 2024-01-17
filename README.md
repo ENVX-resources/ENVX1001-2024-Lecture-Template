@@ -4,7 +4,7 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-### Topic 1: Introduction
+### Topic X: Slide title here
 
 ## [View slides in HTML](https://envx-resources.github.io/ENVX1002-Lecture-Template/#/title-slide)
 
