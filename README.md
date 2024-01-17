@@ -6,9 +6,7 @@
 
 ### Topic 1: Introduction
 
-Welcome!
-
-**To view the rendered slides, click [here](https://envx-resources.github.io/ENVX1002-Lecture-Template).** Check the repository if you wish to download the slides in PDF or HTML format.
+## [View slides in HTML](https://envx-resources.github.io/ENVX1002-Lecture-Template/#/title-slide)
 
 ## License and attribution
 
